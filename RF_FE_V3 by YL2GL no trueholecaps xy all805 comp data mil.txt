@@ -1,0 +1,18 @@
+* Partlist from file: RF_FE_V3 by YL2GL no trueholecaps xy all805.lay6" / 22-3-2018 21:25:43
+*
+* All coordinates in mil
+*
+* No	Name	Value	Layer	Pos-X	Pos-Y	Rot	Package	Comment
+*
+1	C3	100u	Top	1209.79	-2203.12	0		
+2	C4	47u	Top	1444.17	-2201.55	0		
+3	C6	100u	Top	1691.04	-2054.68	0		
+4	C7	22u	Top	1698.85	-1810.93	0		
+5	DA1	SA612	Top	1071.59	-808.77	270		
+6	DA2	SA612	Top	1471.59	-808.77	270		
+7	DA3	MC4558	Top	1106.25	-1621.38	0		
+8	DD1	Si5351a	Top	656.67	-1056.62	0		
+9	L1	FB	Top	270.22	-1035.44	270		
+10	L2	FB	Top	818.66	-2179.19	0		
+11	L3	FB	Top	1238.97	-927.63	270		
+12	L4	FB	Top	1634.28	-976.06	270		
